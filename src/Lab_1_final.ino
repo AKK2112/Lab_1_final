@@ -1,7 +1,6 @@
 SYSTEM_MODE(MANUAL);
 SYSTEM_THREAD(ENABLED);
 
-
 void setup() {
   pinMode(D7, OUTPUT);
 }
